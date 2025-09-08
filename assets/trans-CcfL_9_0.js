@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{b as a,j as n,d as o,t as s}from"./index-BxHneLG1.js";const r={class:"translation-entry"},c={class:"zh"},_={__name:"trans",props:{zh:String,en:String},setup(t){return(i,d)=>(n(),a("div",r,[o("div",c,s(t.zh)+" "+s(t.en),1)]))}},m=e(_,[["__scopeId","data-v-5d362c42"]]);export{m as t};
